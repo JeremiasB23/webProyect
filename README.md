@@ -1,3 +1,3 @@
 # webProyect
 
-hello git!
+Just some personal practice proyects
